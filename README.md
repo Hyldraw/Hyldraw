@@ -9,10 +9,10 @@
 
 </div>
 
-Tentando me tornar um desenvolvedor; atualmente desenvolvendo meus projetao em **Vibe Coding** — e não tenho vergonha nenhuma disso.
+Tentando me tornar um desenvolvedor; atualmente desenvolvendo meus projetos em **Vibe Coding** — futuramente desenvolverei do zero.
 
 - 🔭 Trabalhando nos projetos da **CloutTeam**
-- 🌱 Próximos passos: aprender **Python** e depois **JavaScript**
+- 🌱 Próximos passos: aprender **Python** e em seguida **JavaScript**
 ---
 
 <div align="center">
@@ -42,7 +42,7 @@ Tentando me tornar um desenvolvedor; atualmente desenvolvendo meus projetao em *
 
 ---
 
-## 📦 CloutTeam
+## 🌊 CloutTeam • Progetos
 
 <div align="center">
 
