@@ -2,46 +2,63 @@
     <h1>Olá, Hyldraw aqui!</h1>
 </div>
 
-## 🛰️ Detalhes sobre mim:
-Estou começando a ser Desenvolvedor, atualmente só "desenvolvo" em **Vibe Coding**.
+---
+<div align="center">
 
--  🔭 Atualmente trabalhando nos projetos da **CloutTeam**.
--  🌱 Pretendo aprender Python, e logo em seguida Javascript!
+<h2>🛰️ Sobre mim:</h2>
 
-## 🛠️ Desenvolvimento Vibe Coding
-Já vi alguns desenvolvedores dizendo que "desenvolver" em **Vibe Coding** é ser extremamente preguiçoso, por nao aprender uma lingua e porgamar o codigo do zero. Todavia esses são os serviços que eu uso!
+</div>
+
+Tentando me tornar um desenvolvedor; atualmente desenvolvendo meus projetao em **Vibe Coding** — e não tenho vergonha nenhuma disso.
+
+- 🔭 Trabalhando nos projetos da **CloutTeam**
+- 🌱 Próximos passos: aprender **Python** e depois **JavaScript**
+---
 
 <div align="center">
 
-### Replit
-Gerar codigos robuatos e resolver grandes problemas.
-
-### Manus
-Gerar um base pouco simples do projeto e resolver pequenos problemas
-
-### Claude
-Gerar uma base mais robusta e resolver pequenos problemas
-</div>
-
+<h2>🛠️ Ferramentas:</h2>
 
 </div>
+
+> Alguns devs criticam o Vibe Coding como "preguiça". Eu prefiro chamar de **eficiência assistida**. Aqui estão minhas ferramentas:
+
+<div align="center">
+
+| Ferramenta | Uso |
+|-----------|-----|
+# 
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Base robusta de projetos e resolução de problemas medianos**
+
+![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+
+**Projeto completo e resolução se problemas muito complexos**
+
+![Manus](https://img.shields.io/badge/Manus-1A1A2E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
+
+**Base inicial de projetos e pequenos ajustes**
+
+---
+
+## 📦 CloutTeam
+
+<div align="center">
+
+
+[![Discord](https://img.shields.io/badge/CloutTeam%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sPBm2CdWC5)
+
+[![Servidor](https://img.shields.io/badge/FrostStream-Stremio%20Addon-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://froststream.cloutteam.com/)
+
+[![Servidor](https://img.shields.io/badge/FrostView-Stremio%20Addon-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://frostview.up.railway.app/)
+
+---
 
 ## 📭 Contato
 
-- 📩 **Email**: hyldraw@gmail.com
-- 📦 **CloutTeam**: https://discord.gg/sPBm2CdWC5
+<div align="center">
 
-<!--
-**Hyldraw/Hyldraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail](https://img.shields.io/badge/hyldraw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyldraw@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
