@@ -28,17 +28,13 @@ Tentando me tornar um desenvolvedor; atualmente desenvolvendo meus projetos em *
 | Ferramenta | Uso |
 |-----------|-----|
 # 
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-
-**Base robusta de projetos e resolução de problemas medianos**
-
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
 
 **Projeto completo e resolução se problemas muito complexos**
 
-![Manus](https://img.shields.io/badge/Manus-1A1A2E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
+![Manus](https://img.shields.io/badge/Manus%20AI-1A1A2E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
 
-**Base inicial de projetos e pequenos ajustes**
+**Base inicial dos projetos e pequenos ajustes**
 
 ---
 
