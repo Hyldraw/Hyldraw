@@ -36,6 +36,7 @@ Tentando me tornar um desenvolvedor; atualmente desenvolvendo meus projetos em *
 
 </div>
 
+---
 
 ## 🌊 CloutTeam • Progetos
 
