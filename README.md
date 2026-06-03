@@ -20,7 +20,7 @@ Tentando me tornar um desenvolvedor; atualmente desenvolvendo meus projetos em *
 <h2>🛠️ Ferramentas:</h2>
 
 
-> Alguns devs criticam o Vibe Coding como "preguiça". Eu prefiro chamar de **Super quebra galho**. Aqui estão minhas ferramentas:
+> Alguns devs criticam o Vibe Coding como "preguiça". Eu prefiro chamar de **Super Quebra Galho**. Aqui estão minhas ferramentas:
 
 
 | Ferramenta | Uso |
