@@ -19,11 +19,9 @@ Tentando me tornar um desenvolvedor; atualmente desenvolvendo meus projetos em *
 
 <h2>🛠️ Ferramentas:</h2>
 
-</div>
 
 > Alguns devs criticam o Vibe Coding como "preguiça". Eu prefiro chamar de **Super quebra galho**. Aqui estão minhas ferramentas:
 
-<div align="center">
 
 | Ferramenta | Uso |
 |-----------|-----|
@@ -37,6 +35,7 @@ Tentando me tornar um desenvolvedor; atualmente desenvolvendo meus projetos em *
 **Base inicial dos projetos e pequenos ajustes**
 
 </div>
+
 ---
 
 ## 🌊 CloutTeam • Progetos
