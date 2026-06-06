@@ -47,7 +47,7 @@ Tentando me tornar um desenvolvedor; atualmente desenvolvendo meus projetos em *
 
 [![Servidor](https://img.shields.io/badge/FrostStream-Stremio%20Addon-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://froststream.cloutteam.com/)
 
-[![Servidor](https://img.shields.io/badge/FrostView-Stremio%20Addon-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://frostview.up.railway.app/)
+[![Servidor](https://img.shields.io/badge/FrostView-Stremio%20Addon-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://frostview.cloutteam.com/)
 
 ---
 
